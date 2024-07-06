@@ -1,0 +1,14 @@
+{
+  "name": "node_js_weather_project",
+  "version": "1.0.0",
+  "description": "creating a weather nodejs app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HyderAli",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
